@@ -39,3 +39,8 @@ Ha d’incloure un mapa de google maps, OpenStreetMaps o similars. (fet)
 Ha d’incloure almenys 3 pàgines personalitzades. (Fet)
 
 Instal·lació de l’extensió Polylang o similars. (No fet)
+
+
+Extra
+
+Una cosa extra es que todos los botones funcionan si le das click, te llevan a la misma pagina pero diferente apartado o a otra pagina.
