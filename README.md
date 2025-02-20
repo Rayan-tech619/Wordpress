@@ -5,17 +5,17 @@ Que hice en mi Wordpress.
 Blog
 
 
-Hice 3 entradas con texto y imagenes (pero tengo la pagina bugueada o la plantilla nose bien lo que es y no sale, pero puedes comprovar en persona que si tengo 3 entradas creadas.)
+Hice 3 entradas con texto y imagenes (Feta)
 
 Una de les entrades haurà de tenir unes normes de publicació definides (No feta)
 
 Una altra de les entrades haurà de tenir unes opcions definides diferents. (no feta)
 
-Addicionalment s’haurà d’afegir al blog un contingut extra dels que s’ha parlat a classe anuncis publicitaris, newsfeeds, una altra secció a on mostri el blog en llista, funció de cerca, etc. (Tengo hecho gran parte de lo que pide) 
+Addicionalment s’haurà d’afegir al blog un contingut extra dels que s’ha parlat a classe anuncis publicitaris, newsfeeds, una altra secció a on mostri el blog en llista, funció de cerca, etc. (Feta) 
 
-El blog ha d’estar buit llevat del vostre contingut. (Esta fet pero una part esta bugueada)
+El blog ha d’estar buit llevat del vostre contingut. (Esta fet)
 
-Un mínim de 2 categories al blog, amb 2 posts per categoria. Com a mínim una entrada ha de dur imatge o modificadors HTML al text. Creació de categories i subcategories. (Gran part feta)
+Un mínim de 2 categories al blog, amb 2 posts per categoria. Com a mínim una entrada ha de dur imatge o modificadors HTML al text. Creació de categories i subcategories. (Modificador html feta)
 
 Un grup d’usuaris automàtic amb permisos mínims i dos grups d’usuaris registrats amb permisos diferents, per exemple editor, administrador, col·laborador, suscriptor, etc. (Ho tinc fet)
 
@@ -30,7 +30,7 @@ Ha de tenir almenys un menú amb enllaços a les categories del blog i a diferen
 
 Ha de tenir també una portada i una pàgina de contacte amb formulari (plugins contact form). (fet)
 
-Ha de tenir una extensió o contingut extra del WordPress. (fet, aceptar cookies)
+Ha de tenir una extensió o contingut extra del WordPress. (fet)
 
 Ha de fer servir un tema del WordPress. (fet)
 
